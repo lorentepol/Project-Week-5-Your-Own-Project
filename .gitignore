@@ -8,6 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+images
+*/images/*
 
 data
 */data/*
@@ -24,6 +26,7 @@ ipython_config.py
 
 # Word temporary
 ~$*.doc*
+*.docx
 
 # Word Auto Backup File
 Backup of *.doc*

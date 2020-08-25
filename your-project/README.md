@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# The Great Stalker
+*Pol Lorente Gay*
 
-*[Your Cohort, Campus & Date]*
+*Data Analysis Full Time June 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,16 +14,11 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
-
+The project goal was to try to get as much information as possible (with the limited time) from my own data on Google, as if I was a hacker that stole my data.
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
-
+What would a malicious person know about me from my data.
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
-
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The data was my own data from Google, Apple and LinkedIn, including my activity on Youtube, steps and distance walked with my Iphone, activity from LinkedIn, etc.
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
@@ -31,8 +26,6 @@ How did you organize your work? Did you use any tools like a kanban board?
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/lorentepol/Project-Week-5-Your-Own-Project)  
+[Slides](https://slides.com/pollorente/deck-443abe)  
